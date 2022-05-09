@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Duplex Home",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "price": "$1100",
+      "location": "Shimla 173216 India",
+      "image": "assets/images/img0.jpg",
+      "rating": "4.9"
+
+    },{
+      "name": "Premium House",
+      "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "price": "$200",
+      "location": "Old Junga, Shimla",
+      "image": "assets/images/img1.jpg",
+      "rating": "3.8"
+    }
+    ]
